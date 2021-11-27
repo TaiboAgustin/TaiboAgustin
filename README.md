@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Taibo</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently **not working, but but in the meantime I keep expanding my knowledge**
+- 🔭 I’m currently **working as a Trainee Web Developer in OpenDev Pro, but in the meantime I keep expanding my knowledge**
 
 - 🌱 I’m currently learning **FullStack Developer in Coderhouse**
 
