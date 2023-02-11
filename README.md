@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently **working as a Jr. Front-End Developer at Hogarth Argentina, but in the meantime I keep expanding my knowledge**
 
-- 🌱 I’m currently learning **FullStack Developer in Coderhouse**
-
 - 📫 If you like my work, send me an email and I will tell you more about myself. **taibocruz@gmail.com**
 
 - ⚡ In my free time **i like to train in the gym or play voley, also i like to watch anime and i love play computer games, specially counter strike and league of legends**
