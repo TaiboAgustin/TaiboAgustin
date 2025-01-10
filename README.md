@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin Taibo</h1>
-<h3 align="center">A passionate FullStack Developer from Buenos Aires, Argentina</h3>
-
-- 🔭 I’m currently **working as a FullStack Developer at Frigorifico Rioplatense, but in the meantime I keep expanding my knowledge**
+<h3 align="center">A passionate FrontEnd Developer from Buenos Aires, Argentina</h3>
 
 - 📫 If you like my work, send me an email and I will tell you more about myself. **taibocruz@gmail.com**
 
