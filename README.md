@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Agustín Taibo Cruz</h1>
+<h1 align="center">¡Hola! 👋 Soy Agus</h1>
 
 <p align="center">
   <b>Software Engineer</b> · AI-native developer · Buenos Aires, Argentina 🇦🇷
